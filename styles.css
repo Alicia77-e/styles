@@ -1,0 +1,56 @@
+/*body
+{
+    background-color:white (109, 20, 24, 0.048);
+}
+h3
+{ 
+color:deepskyblue;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: 300%;}
+p
+{
+    border: 3px solid whitesmoke;
+    padding: 2PX;
+    margin: 0.5%;
+    color: chartreuse;
+}
+a
+{
+    color: antiquewhite;
+}
+a:link
+{
+    color: pink;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:visited
+{
+    color: blue;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:hover
+{
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+}
+a:active
+{
+     color: darkorange;
+     background-color: transparent;
+     text-decoration: underline;
+}
+a:link, a:visited {
+    background-color: #f44336;
+    color: white;
+    padding: 15px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  
+  a:hover, a:active {
+    background-color: rgb(38, 0, 255);
+  }
